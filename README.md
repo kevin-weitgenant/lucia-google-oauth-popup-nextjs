@@ -1,6 +1,6 @@
 Here's a README for your GitHub project:
 
-# NextJS Google OAuth with Lucia
+# NextJS Google OAuth with Lucia and using popup
 
 This project implements Google OAuth authentication using a popup in a Next.js application. It utilizes Lucia for authentication and is written in TypeScript.
 
